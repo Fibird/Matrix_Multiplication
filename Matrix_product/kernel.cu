@@ -6,7 +6,6 @@ typedef struct
 {
 	int width;
 	int height;
-	int stride;
 	float* elements;
 } Matrix;
 
